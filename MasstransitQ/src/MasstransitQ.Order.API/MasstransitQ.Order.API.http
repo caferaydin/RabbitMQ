@@ -1,0 +1,6 @@
+@MasstransitQ.Order.API_HostAddress = http://localhost:5080
+
+GET {{MasstransitQ.Order.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
